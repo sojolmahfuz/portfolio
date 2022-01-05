@@ -5,19 +5,18 @@ body{
 
 h1{
     font-size: 50px;
-    text-align: justify;
 }
 h3{
     text-align: justify;
-    margin-left: 10px;
+}
+.flexible-container{
+    display: flex;
 }
 .feature-para{
-    text-align: justify;
     padding: 10px 10px;
 }
 .dream-para{
     width: 80%;
-    text-align: justify;
 }
 .color-orange{
     color: orange;
