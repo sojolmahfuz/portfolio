@@ -15,13 +15,24 @@ h3{
     text-align: justify;
     padding: 10px 10px;
 }
+.dream-para{
+    width: 80%;
+    text-align: justify;
+}
 .color-orange{
     color: orange;
 }
-section{
+.top-banner{
     display: flex;
     background-image: url(image/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 150px;
+}
+.dream-big-section{
+    display: flex;
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 .half-width{
     width: 50%;
