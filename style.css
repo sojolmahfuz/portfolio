@@ -49,3 +49,62 @@ h3{
     background-image: linear-gradient(orange, tomato);
     border-radius: 20px;
 }
+.baby-title{
+    font-size: 30px;
+    text-align: center;
+}
+.full-title{
+    font-size: 30px;
+    text-align: center;
+}
+.exp-title{
+    text-align: center;
+    margin: 0;
+}
+.border{
+    position: relative;
+    border-bottom: 3px solid;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 38%;
+    margin-bottom: 50px;
+    color: salmon;
+}
+.exp-h3{
+    text-align: center;
+}
+.exp-p{
+    text-align:justify;
+    padding-right: 15px;
+}
+.experience-area{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+#pro-dev{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+#baby-dev{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(230, 25, 11), rgb(224, 35, 209));
+    border-image-slice: 1;
+}
+footer p{
+    margin-top: 100px;
+    text-align: center;
+    font-weight: 500;
+}
+.color{
+    color: salmon;
+}
